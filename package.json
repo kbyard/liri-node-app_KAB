@@ -1,0 +1,20 @@
+{
+  "name": "liri-node-app_KAB",
+  "version": "1.0.0",
+  "description": "Boot Camp UCDSAC20180507FSF Homework #10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbyard/liri-node-app_KAB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbyard/liri-node-app_KAB/issues"
+  },
+  "homepage": "https://github.com/kbyard/liri-node-app_KAB#readme"
+}
