@@ -1,6 +1,6 @@
 # liri-node-app_KAB
-Boot Camp UCDSAC20180507FSF Homework #10
-Portfolio: https://kbyard.github.io/
+* Boot Camp UCDSAC20180507FSF Homework #10
+* Portfolio: https://kbyard.github.io/
 
 ## LIRI: Language Interpretation & Recognition Interface
 LIRI is a command line node application that takes in parameters and gives back data. It is similar to Apple's SIRI, except it is a "Language Interpretation and Recognition Interface" instead of a "Speech Interpretation and Recognition Interface".
