@@ -31,13 +31,12 @@ function goLiri(action, item1) {
 		// "do-what-it-says"
 		case ("do-what-it-says"):
 			doWhatItSays();
-			break:
-		default:
 			break;
 	}
 }
 var action = process.argv[2];
 var item1 = process.argv[3];
+goLiri(action, item1);
 
 // "node liri.js my-tweets": This will show your last 20 tweets and when they were created at in your terminal/bash window.
 function myTweets() {
@@ -108,7 +107,7 @@ function movieThis(movie_name) {
 			console.log("Language: " + movieInfo["Language"]);
 			// Plot of the movie.
 			console.log("Plot: " + movieInfo["Plot"]);
-			Actors in the movie.
+			// Actors in the movie.
 			console.log("Actors: " + movieInfo["Actors"]);
 		}
 	});
